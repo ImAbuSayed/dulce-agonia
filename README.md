@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-agonia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dulce agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-agonia/) |
+| **Get License** | [Get License For Dulce agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-agonia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, esta noche la disco es pa' los dos,
+> Tú y yo perdiéndonos sin pedir perdón,
+> Esa mirada tuya me roba la voz,
+> Dulce agonía que me quema el corazón.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
