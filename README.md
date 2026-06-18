@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-agonia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dulce agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-agonia/) |
+| **Get License** | [Request Licensing for Dulce agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-agonia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7e91ed66e7b3a1d8fba15b3f12e7623ec60e29a830ed0b06f916b11d436ab14a` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
